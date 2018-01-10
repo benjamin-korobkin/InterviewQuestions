@@ -79,7 +79,7 @@ For example, if we start by attaching wagon 7 from the left followed by attachin
 
 Implement a TrainComposition that models this problem.
 
-8) PATH (coming soon...)
+8) PATH
 Write a function that provides change directory (cd) function for an abstract file system.
 
 Notes:
