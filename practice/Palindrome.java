@@ -5,7 +5,7 @@ public class Palindrome {
     	if (word.length() <= 1) return true;
     	word = word.toLowerCase();
     	
-    	while (word.length() > 1)
+    	for (int i = 0; i < word.length()-1; i++)
     	{
     		if (word.charAt(0) == word.charAt(word.length()-1))
     		{
